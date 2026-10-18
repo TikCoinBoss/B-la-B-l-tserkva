@@ -5,6 +5,8 @@ Works on a phone and on a computer, the interface is in Ukrainian, Czech and Rom
 
 A second map is included: the right bank of the Apshytsia river in Serednie Vodiane (Střední Vodiané / Apșa de Mijloc). Switch villages on the title screen or in the pause menu; direct link: add `#vodiane` to the address.
 
+The two maps are joined by a road gate: walk through the wooden gate on the main road at the west edge of Bila Tserkva (or at the start of the road in Serednie Vodiane) to cross to the other village. The real road is about 10 km long, the maps only cover its ends.
+
 **Play:** open the GitHub Pages address of this repository (Settings → Pages) in a browser.
 
 ## Controls
